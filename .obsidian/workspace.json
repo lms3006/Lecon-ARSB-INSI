@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "712975d6b4b7f79d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8e4ca4a567e7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1228700175ca8b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recherche stage/Connaissance fondamentaux de CI-CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Connaissance fondamentaux de CI-CD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf79275c3d839361",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3730d3eef6acb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692cb312fad38387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "da13f696479364b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "c045b54748c368e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "888bca2e86d788a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac3c8e74c6389a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2233439c8199079f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recherche stage/Connaissance fondamentaux de CI-CD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "47e20000805a6816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "28a49c16a8a27751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "9136586c603a4730",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "2d2422bb7e0137ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "1228700175ca8b69",
+  "lastOpenFiles": [
+    "SNMP-Simple Management Protocol (IP Services).md",
+    "Sans titre.md",
+    "Sans titre.canvas",
+    "Sans titre.base",
+    "Recherche.md",
+    "rappotCTF.zip",
+    "Pitch.md",
+    "Pasted image 20260810090739.png",
+    "Pasted image 20260713075253.png",
+    "Pasted image 20260713075158.png",
+    "Pasted image 20260713074827.png",
+    "Pasted image 20260713074640.png",
+    "Pasted image 20260713074550.png",
+    "Pasted image 20260713074410.png",
+    "Pasted image 20260713074210.png",
+    "Pasted image 20260713073924.png",
+    "Pasted image 20260713073809.png",
+    "2026-08-03.md",
+    "VOIP/Projet/MISE EN PLACE ET CONFIGURATION D’UN SERVEUR ASTERISK SOUS CENTOS.md",
+    "VOIP/Zoiper5_5.6.11_x86_64.deb",
+    "VOIP/VoiceMail.md",
+    "VOIP/Sécurité Informatique.md",
+    "VOIP/Réparation de base des données.md",
+    "VOIP/Projet",
+    "VOIP/Notes.md",
+    "VOIP/Introduction.md",
+    "VOIP/Firewall Proxmox VE.md",
+    "VOIP/Architecture et caractéristique de la VoIP.md",
+    "VOIP/APPLICATION Dial sous Asterisk.md",
+    "VOIP",
+    "Supervision réseau et administrationn/exsuper.pdf",
+    "Supervision réseau et administrationn/TP MSP.md",
+    "Supervision réseau et administrationn/TP DDSF1.md",
+    "Supervision réseau et administrationn/Squid.md",
+    "Supervision réseau et administrationn/Realisation DNS et DHCP.md",
+    "Supervision réseau et administrationn/REVISION.pdf",
+    "Supervision réseau et administrationn/MSP.pdf",
+    "Supervision réseau et administrationn/Exploitation avec msfconsole.md",
+    "Supervision réseau et administrationn/Exercice.md",
+    "Supervision réseau et administrationn/Exercice 3.md",
+    "Supervision réseau et administrationn/Execice 2.md",
+    "Supervision réseau et administrationn/DDSF1.pdf",
+    "Supervision réseau et administrationn",
+    "SOC/TP SIEM, Wazuh.md",
+    "SOC/SOC (Security Opération Center).md",
+    "SOC/En savoir plus.md",
+    "Shell/exercice/Exercice.md",
+    "Lecon-ARSB-INSI/Sans titre.canvas"
+  ]
+}
